@@ -1,4 +1,4 @@
-postgres
+postgresql
 bitnami/postgresql:latest
 redis
 redis:7.2-alpine
